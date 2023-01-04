@@ -1,0 +1,8 @@
+...
+
+[[headers]]
+  for = "/newer1/*"
+  [headers.values]
+    Access-Control-Allow-Origin = "*"
+
+...
