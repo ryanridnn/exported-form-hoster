@@ -8957,9 +8957,6 @@
                     "properties": {}
                 }
             ],
-            "defaultValue": {
-                "textField": ""
-            },
             "lazyLoad": false,
             "placeholder": "",
             "prefix": "",
